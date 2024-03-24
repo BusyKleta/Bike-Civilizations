@@ -3,18 +3,18 @@
 		"name": "Supremo",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Katipunan",
-		"movement": 2
-		"strength": 15
-		"rangedStrength": 10
+		"movement": 2,
+		"strength": 15,
+		"rangedStrength": 10,
 		"cost": 375,
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"promotions": "Woodsman",
 		"uniques": [
 			"Uncapturable",
 			"Limited to [1] per Civilization",
 			"Only available <in cities with a [Pugad Lawin]>",
 			"[+50]% XP gained from combat",
 			"May withdraw before melee ([67]%)",
-			"Double movement in [Jungle]",
 			"[+50]% Strength <during the [Classical era]>",
 			"[+100]% Strength <during the [Medieval era]>",
 			"[+150]% Strength <during the [Renaissance era]>",
@@ -29,8 +29,34 @@
 			"Gain [-50] [Culture] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Gain [-50] [Happiness] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Comment [Lose [-50 Culture, -50 Happiness] upon being defeated]"
+		],
+		"civilopediaText": [
+			{"text": "The Supremo of the Katipunan"}
 		]
 	},
+	{
+		"name": "Katipon",
+		"unitType": "Sword",
+		
+		"uniqueTo": "Katipunan",
+		"replaces": "Warrior"
+		
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		
+		"upgradesTo": "Swordsman",
+		"uniques" : [
+			"May upgrade to [Spearman] through ruins-like effects",
+			"Comment [Enlisted Farmer: Gain +1 movement and +10% strength in Farm and Paddy Farm Tiles]",
+			"[+25]% Strength <when fighting in [Farm] tiles>",
+			"[+25]% Strength <when fighting in [Heirloom Paddy Farm] tiles>"
+		],
+		"attackSound": "nonmetalhit",
+        	"civilopediaText": [
+			{"text": "The newly initiated member of the Katipunan."}
+		]
 	{
 		"name": "Katipunero",
 		"unitType": "Gunpowder",
@@ -38,12 +64,14 @@
 		"uniqueTo": "Katipunan",
 		"movement": 2,
 		"strength": 24,
-		"rangedStrength": 24
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"attackSound": "shot"
-		"uniques": ["May withdraw before melee ([33]%)", "Double movement in [Jungle]", "Must set up to ranged attack"]
+		"attackSound": "shot",
+		"promotions": "Woodsman",
+		"uniques": ["May withdraw before melee ([33]%)"],
+		"civilopediaText": [
+			{"text": "The regular batallion member of the Katipunan wielding the signature flintlocks of the time."}
 	}	
 ]
