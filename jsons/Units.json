@@ -23,9 +23,8 @@
 			"[+300]% Strength <during the [Atomic era]>",
 			"[+350]% Strength <during the [Information era]>",
 			"[+400]% Strength <during the [Future era]>",
-			"[+1] Movement <starting from the [Information era]>",
-			"Cost increases by [30] when built",
-			"[-10]% Strength <for [All] units> <for [10] turns> <upon being defeated>",
+			"Cost increases by [100] when built",
+			"[-1] Movement <for [All] units> <for [10] turns> <upon being defeated>",
 			"Gain [-50] [Culture] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Gain [-50] [Happiness] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Comment [Lose [-50 Culture, -50 Happiness] upon being defeated]"]
