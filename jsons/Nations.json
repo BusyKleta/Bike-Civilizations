@@ -24,8 +24,11 @@
 		"innerColor": [255,230,230],
 		"uniqueName": "Freedom Fighters",
 		"uniques":[
-			"Comment [Free Katipunan Unit appears upon founding a city]"
-			"Free [Katipon] appears <upon founding a city> <during the [Ancient era]><"
+			"Comment [Free Katipunan Unit appears upon founding a city until the Renaissance Era]",
+			"Free [Katipon] appears <upon founding a city> <during the [Ancient era]> <hidden from users>",
+			"Free [Kawal] appears <upon founding a city> <during the [Classical era]> <hidden from users>",
+			"Free [Bayani] appears <upon founding a city> <during the [Medieval era]> <hidden from users>",
+			"Free [Katipunero] appears <upon founding a city> <during the [Renaissance era]> <hidden from users>"
 		],
 		"cities": ["Manila", "Bulacan", "Pampanga", "Cavite", "Batangas", "Laguna", "Tarlac", "Nueva Ecija"]
 	}
