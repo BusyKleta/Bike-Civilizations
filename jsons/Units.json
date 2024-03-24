@@ -8,7 +8,7 @@
 		"rangedStrength": 10,
 		"cost": 375,
 		"attackSound": "shot",
-		"promotions": "Woodsman",
+		"promotions": ["Woodsman"],
 		"uniques": [
 			"Uncapturable",
 			"Limited to [1] per Civilization",
@@ -32,7 +32,7 @@
 	},
 	{
 		"name": "Katipon",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"uniqueTo": "Katipunan",
 		"replaces": "Warrior",
 		"movement": 2,
@@ -56,7 +56,7 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"promotions": "Woodsman",
+		"promotions": ["Woodsman"],
 		"uniques": ["May withdraw before melee ([33]%)"],
 		"attackSound": "shot"
 	}	
