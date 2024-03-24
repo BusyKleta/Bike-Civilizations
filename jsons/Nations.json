@@ -27,8 +27,8 @@
 		"afterPeace": "Sa wakas, natapos na uli ang paglalaban.",
 		"tradeRequest": "We have an offer for you. presyong suki na yan!",
 
-		"outerColor": [255,50,50],
-		"innerColor": [255,230,230],
+		"innerColor": [255,50,50],
+		"outerColor": [255,230,230],
 		"uniqueName": "Freedom Fighters",
 		"uniques":["[+1 Food, +1 Production] from every [Farm]","Free [Musketman] appears <upon founding a city> <when at war>"],
 		"cities": ["Manila", "Bulacan", "Pampanga", "Cavite", "Batangas", "Laguna", "Tarlac", "Nueva Ecija"]
