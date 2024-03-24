@@ -28,7 +28,7 @@
 			"[-10]% Strength <for [All] units> <for [10] turns> <upon being defeated>",
 			"Gain [-50] [Culture] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Gain [-50] [Happiness] (modified by game speed) <upon being defeated> <hidden from users>",
-			"Comment [Lose [-50 Culture, -50 Happiness] upon being defeated]"],
+			"Comment [Lose [-50 Culture, -50 Happiness] upon being defeated]"]
 	},
 	{
 		"name": "Katipon",
@@ -45,7 +45,7 @@
 			"Comment [Enlisted Farmer: Gain +1 movement and +10% strength in Farm and Paddy Farm Tiles]",
 			"[+25]% Strength <when fighting in [Farm] tiles>",
 			"[+25]% Strength <when fighting in [Heirloom Paddy Farm] tiles>"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Katipunero",
@@ -60,6 +60,6 @@
 		"obsoleteTech": "Rifling",
 		"promotions": "Woodsman",
 		"uniques": ["May withdraw before melee ([33]%)"],
-		"attackSound": "shot",
+		"attackSound": "shot"
 	}	
 ]
