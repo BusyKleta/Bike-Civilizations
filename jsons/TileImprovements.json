@@ -1,1 +1,16 @@
-
+[
+        {
+                "name": "Heirloom Paddy Farm",
+                "replaces": "Farm",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Hills"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Can also be built on tiles adjacent to fresh water",
+                        "[+1 Gold] <after adopting [Tradition]>",
+			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+                        "Pillaging this improvement yields approximately [+22 Gold]"],
+		"shortcutKey": "F"
+        }
+]
