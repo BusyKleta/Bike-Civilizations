@@ -40,6 +40,7 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
+		"promotions": ["Enlisted Farmer"],
 		"uniques": ["May upgrade to [Spearman] through ruins-like effects"]
 	},
 	{
@@ -53,8 +54,8 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"promotions": ["Woodsman"],
 		"attackSound": "shot",
+		"promotions": ["Woodsman"],
 		"uniques": ["May withdraw before melee ([33]%)"]
 		
 	}	
