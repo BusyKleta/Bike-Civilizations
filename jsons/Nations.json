@@ -60,14 +60,13 @@
 		"hateNo": ["Ginagago mo ba ko?"],
 		"hateYes": ["*tsk* Sige na."],
 
-		
 		"afterPeace": "Sa wakas, natapos na uli ang paglalaban.",
 		"tradeRequest": "We have an offer for you. presyong suki na yan!",
 
 		"outerColor": [255,50,50],
-		"innerColor": [255,200,200],
-		"uniqueName": "Freedom Fighters",
-		"uniques": ["Free [Mustketman] appears [in all cities] <when at war> <with [100]% chance>"],
+		"innerColor": [255,230,230],
+		"uniqueName": "Freedom_Fighters",
+		"unique": ["Free [Mustketman] appears <upon founding a city>"],
 		"cities": ["Manila", "Bulacan", "Pampanga", "Cavite", "Batangas", "Laguna", "Tarlac", "Nueva Ecija"]
 	}
 ]
