@@ -1,6 +1,7 @@
 [
         {
-                "name": "Wheat",
+                "name": "Grain",
+		"replaces": "Wheat",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Plains","Flood plains","Desert"], // Desert only if fresh water
 		"food": 1,
