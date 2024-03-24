@@ -30,7 +30,7 @@
 		"innerColor": [255,50,50],
 		"outerColor": [255,230,230],
 		"uniqueName": "Freedom Fighters",
-		"uniques":["[+1 Food, +1 Production] from every [Farm]","Free [Musketman] appears <upon founding a city> <when at war>"],
+		"uniques":["[+1 Food, +1 Production] from every [Farm]","Free [Musketman] appears <upon founding a city>"],
 		"cities": ["Manila", "Bulacan", "Pampanga", "Cavite", "Batangas", "Laguna", "Tarlac", "Nueva Ecija"]
 	}
 ]
