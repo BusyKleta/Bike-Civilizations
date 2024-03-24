@@ -6,5 +6,21 @@
 		"cost": 1,
 		"culture": 1,
 		"uniques": ["Free [Supremo] appears"]
+	},
+	{
+		"name": "Luneta",
+		"uniqueTo": "Katipunan",
+		"cost": 125,
+		"isNationalWonder": true,
+		"culture": 1,
+		"replaces": "National Epic",
+		"uniques": [
+			"Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", 
+			"[+25]% Great Person generation [in this city]", 
+			"Cost increases by [40] per owned city",
+			"[+2 Culture] [in this city] <after discovering [Gunpowder]>",
+			"[+1 Culture] [in all cities] <after discovering [Gunpowder]>"
+		],
+		"requiredTech": "Writing"
 	}
 ]
