@@ -41,9 +41,7 @@
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
 		"uniques": [
-			"May upgrade to [Spearman] through ruins-like effects",
-			"[+25]% Strength <when fighting in [Farm] tiles>",
-			"[+25]% Strength <when fighting in [Heirloom Paddy Farm] tiles>"],
+			"May upgrade to [Spearman] through ruins-like effects",]
 	},
 	{
 		"name": "Katipunero",
