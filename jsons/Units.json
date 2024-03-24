@@ -13,6 +13,8 @@
 			"Limited to [1] per Civilization",
 			"Only available <in cities with a [Pugad Lawin]>",
 			"[+50]% XP gained from combat",
+			"May withdraw before melee ([67]%)",
+			"Double movement in [Jungle]",
 			"[+50]% Strength <during the [Classical era]>",
 			"[+100]% Strength <during the [Medieval era]>",
 			"[+150]% Strength <during the [Renaissance era]>",
@@ -26,8 +28,7 @@
 			"[-10]% Strength <for [All] units> <for [10] turns> <upon being defeated>",
 			"Gain [-50] [Culture] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Gain [-50] [Happiness] (modified by game speed) <upon being defeated> <hidden from users>",
-			"Comment [Lose [-50 Culture, -50 Happiness] upon being defeated]",
-			"May withdraw before melee ([67]%)"
+			"Comment [Lose [-50 Culture, -50 Happiness] upon being defeated]"
 		]
 	},
 	{
@@ -43,6 +44,6 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
-		"uniques": ["May withdraw before melee ([33]%)", "Woodsman", "Must set up to ranged attack"]
+		"uniques": ["May withdraw before melee ([33]%)", "Double movement in [Jungle]", "Must set up to ranged attack"]
 	}	
 ]
