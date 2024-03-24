@@ -1,7 +1,7 @@
 [
         {
                 "name": "Heirloom Paddy Farm",
-		"uniqueto": "Katipunan",
+		"uniquetTo": "Katipunan",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Hill"],
 		"food": 1,
 		"turnsToBuild": 7,
