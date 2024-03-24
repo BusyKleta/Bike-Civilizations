@@ -14,7 +14,7 @@
 			"Limited to [1] per Civilization",
 			"Only available <in cities with a [Pugad Lawin]>",
 			"[+50]% XP gained from combat",
-			"May withdraw before melee ([67]%)",
+			"May withdraw before melee ([33]%)",
 			"[+50]% Strength <during the [Classical era]>",
 			"[+100]% Strength <during the [Medieval era]>",
 			"[+150]% Strength <during the [Renaissance era]>",
@@ -55,7 +55,7 @@
 		"upgradesTo": "Bayani",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Heal this unit by [10] HP <in [Friendly] tiles>"],
+		"uniques": ["Heal this unit by [3] HP <in [Friendly] tiles>"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -87,7 +87,7 @@
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot",
 		"promotions": ["Woodsman"],
-		"uniques": ["May withdraw before melee ([33]%)"]
+		"uniques": ["May withdraw before melee ([10]%)"]
 		
 	}	
 ]
