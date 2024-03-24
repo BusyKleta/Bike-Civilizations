@@ -32,7 +32,7 @@
 	},
 	{
 		"name": "Katipon",
-		"unitType": "Sword",
+		"unitType": "Melee",
 		"uniqueTo": "Katipunan",
 		"replaces": "Warrior"
 		"movement": 2,
