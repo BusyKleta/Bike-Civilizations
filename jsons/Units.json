@@ -11,9 +11,8 @@
 		"uniques": [
 			"Uncapturable",
 			"Limited to [1] per Civilization",
-			"Only available <in cities with a [Pugad Lawin}>",
+			"Only available <in cities with a [Pugad Lawin]>",
 			"[+50]% XP gained from combat",
-			"Heals [25] damage if it kills a unit",
 			"[+50]% Strength <during the [Classical era]>",
 			"[+100]% Strength <during the [Medieval era]>",
 			"[+150]% Strength <during the [Renaissance era]>",
@@ -27,7 +26,8 @@
 			"[-10]% Strength <for [All] units> <for [10] turns> <upon being defeated>",
 			"Gain [-50] [Culture] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Gain [-50] [Happiness] (modified by game speed) <upon being defeated> <hidden from users>",
-			"Comment [Lose [-50 Culture, -50 Happiness] upon being defeated]"
+			"Comment [Lose [-50 Culture, -50 Happiness] upon being defeated]",
+			"May withdraw before melee ([67]%)"
 		]
 	},
 	{
@@ -43,6 +43,6 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
-		"uniques": ["Woodsman", "May withdraw before melee ([33]%)", "Must set up to ranged attack"]
+		"uniques": ["May withdraw before melee ([33]%)", "Woodsman", "Must set up to ranged attack"]
 	}	
 ]
