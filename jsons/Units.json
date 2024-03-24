@@ -38,10 +38,26 @@
 		"strength": 8,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
+		"upgradesTo": "Kawal",
 		"attackSound": "nonmetalhit",
 		"promotions": ["Enlisted Farmer"],
 		"uniques": ["May upgrade to [Spearman] through ruins-like effects"]
+	},
+	{
+		"name": "Kawal",
+		"unitType": "Armored",
+		"uniqueTo": "Katipunan",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Heal this unit by [10] HP <in [Friendly] tiles>"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Katipunero",
