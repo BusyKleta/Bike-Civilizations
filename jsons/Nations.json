@@ -24,7 +24,8 @@
 		"innerColor": [255,230,230],
 		"uniqueName": "Freedom Fighters",
 		"uniques":[
-			"Free [Katipon] appears <upon founding a city> <during the [Ancient era]>"
+			"Comment [Free Katipunan Unit appears upon founding a city]"
+			"Free [Katipon] appears <upon founding a city> <during the [Ancient era]><"
 		],
 		"cities": ["Manila", "Bulacan", "Pampanga", "Cavite", "Batangas", "Laguna", "Tarlac", "Nueva Ecija"]
 	}
