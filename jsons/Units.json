@@ -32,7 +32,7 @@
 	},
 	{
 		"name": "Katipon",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"uniqueTo": "Katipunan",
 		"replaces": "Warrior",
 		"movement": 2,
@@ -40,10 +40,10 @@
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit",
 		"uniques": [
 			"May upgrade to [Spearman] through ruins-like effects",
-			"[+25]% Strength <when fighting in [Farm] tiles>"],
-		"attackSound": "nonmetalhit"
+			"[+25]% Strength <when fighting in [Farm] tiles>"]
 	},
 	{
 		"name": "Katipunero",
@@ -57,7 +57,8 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"promotions": ["Woodsman"],
-		"uniques": ["May withdraw before melee ([33]%)"],
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"uniques": ["May withdraw before melee ([33]%)"]
+		
 	}	
 ]
