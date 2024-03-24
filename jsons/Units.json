@@ -43,8 +43,7 @@
 		"uniques": [
 			"May upgrade to [Spearman] through ruins-like effects",
 			"Comment [Enlisted Farmer: Gain +1 movement and +10% strength in Farm and Paddy Farm Tiles]",
-			"[+25]% Strength <when fighting in [Farm] tiles>",
-			"[+25]% Strength <when fighting in [Heirloom Paddy Farm] tiles>"],
+			"[+25]% Strength <when fighting in [Farm] tiles>",]
 		"attackSound": "nonmetalhit"
 	},
 	{
