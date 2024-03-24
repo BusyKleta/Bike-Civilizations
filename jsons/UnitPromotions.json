@@ -1,6 +1,10 @@
 [
         {
                 "name": "Enlisted Farmer",
-                "uniques": ["[+1] Movement <when in
+                "uniques": [
+                        "[+1] Movement <in [Farm] tile>",
+                        "[+25]% Strength <when fighting in [Farm] tiles>",
+			"[+25]% Strength <when fighting in [Heirloom Paddy Farm] tiles>"
+                ],
         }
 ]
