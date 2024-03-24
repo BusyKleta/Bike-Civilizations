@@ -30,7 +30,7 @@
 		"outerColor": [255,50,50],
 		"innerColor": [255,230,230],
 		"uniqueName": "Freedom Fighters",
-		"uniques":["Free [Katipon] appears <upon founding a city>"],
+		"uniques":["Free [Katipunero] appears <upon founding a city>"],
 		"cities": ["Manila", "Bulacan", "Pampanga", "Cavite", "Batangas", "Laguna", "Tarlac", "Nueva Ecija"]
 	}
 ]
