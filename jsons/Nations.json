@@ -21,7 +21,7 @@
 		"tradeRequest": "We have an offer for you. presyong suki na yan!",
 
 		"outerColor": [255,50,50],
-		"innerColor": [255,230,230],
+		"innerColor": [255,197,0],
 		"uniqueName": "Freedom Fighters",
 		"uniques":[
 			"Comment [Free Katipunan Unit appears upon founding a city until the Renaissance Era]",
