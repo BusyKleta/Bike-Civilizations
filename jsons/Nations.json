@@ -1,48 +1,12 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	},
-	{
 		"name": "Katipunan",
 		"leaderName": "Supremo Andres Bonifacio",
 		"adjective": ["Katipunan"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Mabuhay Supremo Bonifacio, Father of the Philippine Revolution. For centuries the Spaniards colonized the Filipino people and other colonial powers would continue to do so even after your revolt. ",
+		"startIntroPart1": "Mabuhay Supremo Bonifacio, Father of the Philippine Revolution. For centuries the Spaniards colonized the Filipino people and other colonial powers would continue to do so even after your revolt.",
 		"startIntroPart2": "However, the Philippine hope still resides in you and your Katipuneros. Will you be able to achieve a free Nation in this unfamiliar world?",
 		
 		"declaringWar": "You are a threat to our people, prepare to die!",
@@ -51,14 +15,14 @@
 		"introduction": "Pagbati sayo estranghero. Respect our free nation and we'll respect you.",
 		
 		"neutralHello": "Kumusta?",
-		"neutralLetsHearIt": ["I'm listening""],
-		"neutralNo": ["Hindi!"],
-		"neutralYes": ["Syempre, Oo"],
+		"neutralLetsHearIt": "I'm listening",
+		"neutralNo": "Hindi!",
+		"neutralYes": "Syempre, Oo",
 
 		"hateHello": "Ano Nanaman?",
-		"hateLetsHearIt": ["Salita!"],
-		"hateNo": ["Ginagago mo ba ko?"],
-		"hateYes": ["*tsk* Sige na."],
+		"hateLetsHearIt": "Salita!",
+		"hateNo": "Ginagago mo ba ko?",
+		"hateYes": "tsk Sige na.",
 
 		"afterPeace": "Sa wakas, natapos na uli ang paglalaban.",
 		"tradeRequest": "We have an offer for you. presyong suki na yan!",
