@@ -52,11 +52,26 @@
 		"strength": 14,
 		"cost": 75,
 		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
+		"upgradesTo": "Bayani",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"uniques": ["Heal this unit by [10] HP <in [Friendly] tiles>"],
 		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Bayani",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Katipunan",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Katipunero",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["Shock I","Drill I"],
 		"attackSound": "metalhit"
 	},
 	{
