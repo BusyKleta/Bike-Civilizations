@@ -30,7 +30,7 @@
 		"outerColor": [255,50,50],
 		"innerColor": [255,230,230],
 		"uniqueName": "Freedom Fighters"
-		"unique": ["[+3 Production] [in all cities] <when at war>","Free [worker] appears <when not at war>"],
+		"unique": ["Free [musketman] appears [when at war]","Free [worker] appears [when not at war]"],
 		"cities": ["Manila", "Bulacan", "Pampanga", "Cavite", "Batangas", "Laguna", "Tarlac", "Nueva Ecija"]
 	}
 ]
