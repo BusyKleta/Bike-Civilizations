@@ -28,11 +28,8 @@
 			"[-10]% Strength <for [All] units> <for [10] turns> <upon being defeated>",
 			"Gain [-50] [Culture] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Gain [-50] [Happiness] (modified by game speed) <upon being defeated> <hidden from users>",
-			"Comment [Lose [-50 Culture, -50 Happiness] upon being defeated]"
-		],
-		"civilopediaText": [
-			{"text": "The Supremo of the Katipunan"}
-		]
+			"Comment [Lose [-50 Culture, -50 Happiness] upon being defeated]"],
+		"civilopediaText": [{"text": "The Supremo of the Katipunan"}]
 	},
 	{
 		"name": "Katipon",
@@ -47,32 +44,35 @@
 		"obsoleteTech": "Metal Casting",
 		
 		"upgradesTo": "Swordsman",
-		"uniques" : [
+		
+		"uniques": [
 			"May upgrade to [Spearman] through ruins-like effects",
 			"Comment [Enlisted Farmer: Gain +1 movement and +10% strength in Farm and Paddy Farm Tiles]",
 			"[+25]% Strength <when fighting in [Farm] tiles>",
-			"[+25]% Strength <when fighting in [Heirloom Paddy Farm] tiles>"
-		],
+			"[+25]% Strength <when fighting in [Heirloom Paddy Farm] tiles>"],
+		
 		"attackSound": "nonmetalhit",
-        	"civilopediaText": [
-			{"text": "The newly initiated member of the Katipunan."}
-		]
+        	"civilopediaText": [{"text": "The newly initiated member of the Katipunan."}]
+	},
 	{
 		"name": "Katipunero",
 		"unitType": "Gunpowder",
-		"replaces": "Musketman",
+		
 		"uniqueTo": "Katipunan",
+		"replaces": "Musketman",
+		
 		"movement": 2,
 		"strength": 24,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"attackSound": "shot",
+
 		"promotions": "Woodsman",
 		"uniques": ["May withdraw before melee ([33]%)"],
+		
+		"attackSound": "shot",
 		"civilopediaText": [
-			{"text": "The regular batallion member of the Katipunan wielding the signature flintlocks of the time."}
-		]
+			{"text": "The regular batallion member of the Katipunan wielding the signature flintlocks of the time."}]
 	}	
 ]
