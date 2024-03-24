@@ -10,7 +10,6 @@
                         "[+1 Gold] <after adopting [Tradition]>",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
-                        "Pillaging this improvement yields approximately [+22 Gold]"],
-		"shortcutKey": "F"
+                        "Pillaging this improvement yields approximately [+22 Gold]"]
         }
 ]
