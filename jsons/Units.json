@@ -29,11 +29,10 @@
 			"Gain [-50] [Culture] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Gain [-50] [Happiness] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Comment [Lose [-50 Culture, -50 Happiness] upon being defeated]"],
-		"civilopediaText": [{"text": "The Supremo of the Katipunan"}]
 	},
 	{
 		"name": "Katipon",
-		"unitType": "Sword",
+		"unitType": "Melee",
 		"uniqueTo": "Katipunan",
 		"replaces": "Warrior"
 		"movement": 2,
@@ -47,7 +46,6 @@
 			"[+25]% Strength <when fighting in [Farm] tiles>",
 			"[+25]% Strength <when fighting in [Heirloom Paddy Farm] tiles>"],
 		"attackSound": "nonmetalhit",
-        	"civilopediaText": [{"text": "The newly initiated member of the Katipunan."}]
 	},
 	{
 		"name": "Katipunero",
@@ -63,6 +61,5 @@
 		"promotions": "Woodsman",
 		"uniques": ["May withdraw before melee ([33]%)"],
 		"attackSound": "shot",
-		"civilopediaText": [{"text": "The regular batallion member of the Katipunan wielding the signature flintlocks of the time."}]
 	}	
 ]
