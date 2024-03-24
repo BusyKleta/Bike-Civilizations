@@ -29,7 +29,7 @@
 
 		"outerColor": [255,50,50],
 		"innerColor": [255,230,230],
-		"unique": "[+1 food] from every [Farm]",
+		"unique": "Freedom Fighters",
 		"cities": ["Manila", "Bulacan", "Pampanga", "Cavite", "Batangas", "Laguna", "Tarlac", "Nueva Ecija"]
 	}
 ]
