@@ -10,7 +10,7 @@
 	{
 		"name": "Luneta",
 		"uniqueTo": "Katipunan",
-		"cost": 125,
+		"cost": 150,
 		"isNationalWonder": true,
 		"culture": 1,
 		"replaces": "National Epic",
