@@ -34,7 +34,7 @@
 		"name": "Katipon",
 		"unitType": "Melee",
 		"uniqueTo": "Katipunan",
-		"replaces": "Warrior"
+		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
