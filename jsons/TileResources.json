@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Wheat",
+		"name": "Rice",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Plains","Flood plains","Desert"], // Desert only if fresh water
 		"food": 1,
-		"improvement": "Farm",
+		"improvement": "Heirloom Paddy Farm",
 		"uniques": ["Generated on every [27] tiles <in [Featureless] [Plains] tiles>",
 					"Generated on every [10] tiles <in [Desert] [Fresh Water] tiles> <in tiles without [Hill]>",
 					"Generated on every [20] tiles <in [Featureless] [Plains] tiles> <in [Hill] Regions>",
