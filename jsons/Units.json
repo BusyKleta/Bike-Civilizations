@@ -101,10 +101,10 @@
 		"uniques": [
             		"Can hurry technology research",
             		"Great Person - [Science]", 
-			"Uncapturable"],
-		"movement": 2
-		"cost": 300
-		"requiredTech": "Writing",
-		"upgradesTo": "Great Scientist"
+			"Uncapturable",
+			"Cost increases by [50] when built",
+		],
+		"movement": 2,
+		"cost": 75
 	}
 ]
