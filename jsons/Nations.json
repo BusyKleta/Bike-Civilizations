@@ -31,6 +31,17 @@
 			"Free [Katipunero] appears <upon founding a city> <during the [Renaissance era]> <hidden from users>"
 		],
 		"cities": ["Manila", "Bulacan", "Pampanga", "Cavite", "Batangas", "Laguna", "Tarlac", "Nueva Ecija"]
+	},
+	{
+		"name": "Illustrados",
+		"leaderName": "Doctor José Protacio Rizal Mercado y Alonso Realonda",
+		"adjective": ["Illustrado"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"outerColor": [50,50,60],
+		"innerColor": [255,255,255],
+		
 	}
 ]
 
