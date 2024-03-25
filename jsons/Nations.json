@@ -46,7 +46,7 @@
 			"[+1 Science] [in all cities]",
 			"[+1 Science] [in all cities] <after discovering [Writing]",
 			"Free [Illustrado] [in capital city] <after discovering [Writing]",
-			"[-1 Science] when constructing [Sword] units]"
+			"[-10]% Strength to all [Sword] units"
 		],
 		"cities": []
 	}
