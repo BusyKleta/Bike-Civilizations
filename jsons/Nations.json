@@ -20,8 +20,8 @@
 		"afterPeace": "Sa wakas, natapos na uli ang paglalaban.",
 		"tradeRequest": "We have an offer for you. presyong suki na yan!",
 
-		"outerColor": [255,50,50],
-		"innerColor": [255,197,0],
+		"outerColor": [216,42,42],
+		"innerColor": [255,205,38],
 		"uniqueName": "Freedom Fighters",
 		"uniques":[
 			"Comment [Free Katipunan Unit appears upon founding a city until the Renaissance Era]",
