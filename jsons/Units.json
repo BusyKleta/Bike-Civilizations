@@ -105,6 +105,6 @@
 			"Cost increases by [50] when built",
 		],
 		"movement": 2,
-		"cost": 75
+		"cost": 100
 	}
 ]
