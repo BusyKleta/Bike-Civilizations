@@ -32,10 +32,8 @@
 		],
 		"cities": [
 			"Manila", "Bulacan", "Pampanga", "Cavite", "Batangas", "Laguna", "Tarlac", "Nueva Ecija", 	
-			"Bonifacio", "Aguinaldo", "A. Luna", " G. del Pilar"]
-		
-		//"8 initial provinces that joined the Katipunan"
-		//"Notable Illustrados"
+			"Bonifacio", "Aguinaldo", "A. Luna", " G. del Pilar"
+		]
 	},
 	{
 		"name": "Illustrados",
@@ -52,7 +50,7 @@
 		"defeated": "Consummatum Est!",
 		"introduction": "Greetings traveller, care to share travel stories over a mug of ale?",
 		
-		"neutralHello": "Hello", "Hola", "Pagbati", "こんにちは", "Bonjour", "Hallo", "Salve", "Olá", "Ciao", "Γειά σου",
+		"neutralHello": ["Hello", "Hola", "Pagbati", "こんにちは", "Bonjour", "Hallo", "Salve", "Olá", "Ciao", "Γειά σου"],
 		"hateHello": "You again?",
 		
 		"afterPeace": "We have proven ourselves worthy of our liberty",
@@ -73,9 +71,6 @@
 			"Rizal", "Ponce", "M. del Pilar", "Gomez", "Jacinto", "Zamora",					
 			"Calamba", "Francisco", "Teodora", "Saturnina", "Paciano", "Narcisa", "Olympia", "Lucia", "Maria", "Concepcion", "Josefa", "Trinidad", "Soledad"
 		]
-			
-		//"Notable Illustrados and the 3 native priests"
-		//"Rizal's Family and Home Town"
 	}
 ]
 
