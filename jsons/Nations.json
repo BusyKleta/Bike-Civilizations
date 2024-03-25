@@ -66,7 +66,8 @@
 			"[+1 Science] [in all cities] <upon discovering [Writing] technology>",
 			"Receive a tech boost when scientific buildings/wonders are built in capital",
 			"Free [Illustrado] appears [in capital] <upon discovering [Wrtiting] technology>",
-			"Comment [Can construct [Illustrado] units, great scientist that can only speed up]"
+			"Comment [Can construct [Illustrado] units, great scientist that can only speed up]",
+			"[Illustrados] units gain the [Pag-asa ng Bayan] promotion"
 		],
 		"cities": [
 			"Rizal", "Ponce", "M. del Pilar", "Gomez", "Jacinto", "Zamora",					
