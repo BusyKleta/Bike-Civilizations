@@ -6,8 +6,8 @@
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Mabuhay Supremo Bonifacio, Father of the Philippine Revolution. For centuries the Spaniards colonized the Filipino people and other colonial powers would continue to do so even after your revolt.",
-		"startIntroPart2": "However, the Philippine hope still resides in you and your Katipuneros. Will you be able to achieve a free Nation in this unfamiliar world?",
+		"startIntroPart1": "Mabuhay Supremo Bonifacio, Father of the Philippine Revolution. For centuries the Spaniards colonized the Filipino people but it was you who realized a united Filipino front to obtain our collective freedoms. The colonizers feared your revolt, for the hope of the Filipino people was strong and your example set the precedent for the future efforts to attain Philippine freedom.",
+		"startIntroPart2": "The Philippine hope still resides in you and your Katipuneros. Will you be able to achieve a free Nation in this unfamiliar world?",
 		
 		"declaringWar": "You are a threat to our people, prepare to die!",
 		"attacked": "It was only a matter of time, greed truly is universal",
@@ -15,7 +15,7 @@
 		"introduction": "Pagbati sayo estranghero. Respect our free nation and we'll respect you.",
 		
 		"neutralHello": "Kumusta?",
-		"hateHello": "Ano Nanaman?",
+		"hateHello": "Ikaw Nanaman?",
 		
 		"afterPeace": "Sa wakas, natapos na uli ang paglalaban.",
 		"tradeRequest": "We have an offer for you. presyong suki na yan!",
@@ -30,7 +30,12 @@
 			"Free [Bayani] appears <upon founding a city> <during the [Medieval era]> <hidden from users>",
 			"Free [Katipunero] appears <upon founding a city> <during the [Renaissance era]> <hidden from users>"
 		],
-		"cities": ["Manila", "Bulacan", "Pampanga", "Cavite", "Batangas", "Laguna", "Tarlac", "Nueva Ecija"]
+		"cities": [
+			"Manila", "Bulacan", "Pampanga", "Cavite", "Batangas", "Laguna", "Tarlac", "Nueva Ecija", 	
+			"Bonifacio", "Aguinaldo", "A. Luna", " G. del Pilar"]
+		
+		//"8 initial provinces that joined the Katipunan"
+		//"Notable Illustrados"
 	},
 	{
 		"name": "Illustrados",
@@ -38,6 +43,20 @@
 		"adjective": ["Illustrado"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Mabuhay Doctor Jose Rizal, the national hero of the Filipino people. Your unparalled with and skill with the pen led to the enlightenment of your motherland which sparked the revolt of the mind of the Filipino masses. Your unfortunate demise inspred the revolt of others and your deeds are honored in annals of Philippine history.",
+		"startIntroPart2": "Will you be able to achieve an age of Filipino enlightenment, or will your people once again resort to violent ways of war.",
+		
+		"declaringWar": "Sometimes, diplomacy isn't enough.",
+		"attacked": "Touch Me Not!",
+		"defeated": "Consummatum Est!",
+		"introduction": "Greetings traveller, care to share travel stories over a mug of ale?",
+		
+		"neutralHello": "Hello", "Hola", "Pagbati", "こんにちは", "Bonjour", "Hallo", "Salve", "Olá", "Ciao", "Γειά σου",
+		"hateHello": "You again?",
+		
+		"afterPeace": "We have proven ourselves worthy of our liberty",
+		"tradeRequest": "Our people pride themselves in being worty of a good trade.",
 		
 		"outerColor": [50,50,60],
 		"innerColor": [255,255,255],
@@ -49,7 +68,13 @@
 			"Free [Illustrado] appears [in capital] <upon discovering [Wrtiting] technology>",
 			"Comment [Can construct [Illustrado] units, great scientist that can only speed up]"
 		],
-		"cities": []
+		"cities": [
+			"Rizal", "Ponce", "M. del Pilar", "Gomez", "Jacinto", "Zamora",					
+			"Calamba", "Francisco", "Teodora", "Saturnina", "Paciano", "Narcisa", "Olympia", "Lucia", "Maria", "Concepcion", "Josefa", "Trinidad", "Soledad"
+		]
+			
+		//"Notable Illustrados and the 3 native priests"
+		//"Rizal's Family and Home Town"
 	}
 ]
 
