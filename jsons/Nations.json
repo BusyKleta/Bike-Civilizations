@@ -64,7 +64,7 @@
 			"[+1 Science] [in all cities] <every [3] turns>",
 			"Free [Illustrado] appears <in [Capital] cities> <upon discovering [Writing] technology>",
 			"Comment [Can construct [Illustrado] units which can speed up the research of one tech]",
-			"[Illustrados] units gain the [Pag-asa ng Bayan] promotion"
+			"[All] units gain the [Pag-asa ng Bayan] promotion"
 		],
 		"cities": [
 			"Rizal", "Ponce", "M. del Pilar", "Gomez", "Jacinto", "Zamora",					
