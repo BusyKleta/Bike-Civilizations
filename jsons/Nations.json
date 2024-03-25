@@ -64,7 +64,7 @@
 			"[+1 Science] [in all cities]",
 			"[+1 Science] [in all cities] <upon discovering [Writing] technology>",
 			"Receive a tech boost when scientific buildings/wonders are built in capital",
-			"Free [Illustrado] appears [in capital] <upon discovering [Writing] technology>",
+			"Free [Illustrado] appears <in [Capital] cities> <upon discovering [Writing] technology>",
 			"Comment [Can construct [Illustrado] units, great scientist that can only speed up]",
 			"[Illustrados] units gain the [Pag-asa ng Bayan] promotion"
 		],
