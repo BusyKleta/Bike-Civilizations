@@ -1,4 +1,5 @@
 [
+	//Katipunan Units
 	{
 		"name": "Supremo",
 		"unitType": "Gunpowder",
@@ -24,7 +25,7 @@
 			"[+300]% Strength <during the [Atomic era]><hidden from users>",
 			"[+350]% Strength <during the [Information era]><hidden from users>",
 			"[+400]% Strength <during the [Future era]><hidden from users>",
-			"Cost increases by [100] when built",
+			"Unbuildable",
 			"[-1] Movement <for [All] units> <for [10] turns> <upon being defeated> <hidden from users>",
 			"Gain [-50] [Culture] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Gain [-50] [Happiness] (modified by game speed) <upon being defeated> <hidden from users>",
@@ -90,5 +91,20 @@
 		"promotions": ["Woodsman"],
 		"uniques": ["May withdraw before melee ([10]%)"]
 		
-	}	
+	},
+	
+	// Illustrado Units
+	{
+		"name": "Illustrado",
+		"unitType": "Civilian",
+		"uniqueTo": "Illustrados",
+		"uniques": [
+            		"Can hurry technology research",
+            		"Great Person - [Science]", 
+			"Uncapturable"],
+		"movement": 2
+		"cost": 300
+		"requiredTech": "Writing",
+		"upgradesTo": "Great Scientist"
+	}
 ]
