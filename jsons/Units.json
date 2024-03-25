@@ -56,7 +56,7 @@
 		"upgradesTo": "Bayani",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Heal this unit by [3] HP <in [Friendly] tiles>"],
+		"uniques": ["Unit will heal every turn, even if it performs an action <in [Friendly] tiles>"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
