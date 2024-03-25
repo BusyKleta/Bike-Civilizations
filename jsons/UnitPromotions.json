@@ -7,5 +7,9 @@
                         "[+25]% Strength <when fighting in [Farm] tiles>",
 			"[+25]% Strength <when fighting in [Heirloom Paddy Farm] tiles>"
                 ]
-        }
+        },
+	{
+		"name": "Pag-asa ng Bayan",
+		"uniques": ["[+10]% Strength <after [25] turns>"]
+	}
 ]
