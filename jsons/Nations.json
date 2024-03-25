@@ -57,14 +57,14 @@
 		"afterPeace": "We have proven ourselves worthy of our liberty",
 		"tradeRequest": "Our people pride themselves in being worty of a good trade.",
 		
-		"outerColor": [50,50,60],
+		"outerColor": [20,20,70],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Pen is Mightier Than The Sword",
 		"uniques": [
 			"[+1 Science] [in all cities]",
 			"[+1 Science] [in all cities] <upon discovering [Writing] technology>",
 			"Receive a tech boost when scientific buildings/wonders are built in capital",
-			"Free [Illustrado] appears [in capital] <upon discovering [Wrtiting] technology>",
+			"Free [Illustrado] appears [in capital] <upon discovering [Writing] technology>",
 			"Comment [Can construct [Illustrado] units, great scientist that can only speed up]",
 			"[Illustrados] units gain the [Pag-asa ng Bayan] promotion"
 		],
