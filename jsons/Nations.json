@@ -34,6 +34,7 @@
 			"Manila", "Bulacan", "Pampanga", "Cavite", "Batangas", "Laguna", "Tarlac", "Nueva Ecija", 	
 			"Bonifacio", "Aguinaldo", "A. Luna", " G. del Pilar"
 		]
+		//First 8 provinces to join the revolution and notable katipuneros
 	},
 	{
 		"name": "Illustrados",
@@ -69,8 +70,10 @@
 		],
 		"cities": [
 			"Rizal", "Ponce", "M. del Pilar", "Gomez", "Jacinto", "Zamora",					
-			"Calamba", "Francisco", "Teodora", "Saturnina", "Paciano", "Narcisa", "Olympia", "Lucia", "Maria", "Concepcion", "Josefa", "Trinidad", "Soledad"
+			"Calamba", "Francisco", "Teodora", "Saturnina", "Paciano", "Narcisa", "Olympia", "Lucia", "Maria", "Concepcion", "Josefa", "Trinidad", "Soledad",
+			"Segunda", "Valenzuela", "Rivera", "Consuelo", "O-Sei", "Gertrude", "Nelly", "Suzanne", "Josephine"
 		]
+		//Notable illustrados, Rizal's Hometown, Rizal's Family Members, Rizals
 	}
 ]
 
