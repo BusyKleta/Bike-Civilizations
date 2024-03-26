@@ -10,7 +10,10 @@
         },
 	{
 		"name": "Pag-asa ng Bayan",
-		"uniques": ["[+10]% Strength <after [25] turns>"]
+		"uniques": [
+			"[+10]% Strength <after [25] turns>",
+			"[+1] Movement <after [12 turns]"
+		]
 	},
 	{
 		"name": "Bloodline: Aswang"
