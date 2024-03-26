@@ -17,6 +17,6 @@
 	},
 	{
 		"name": "Bloodline: Aswang"
-		"uniques": ["Can transform to [Aswang] <every [10] turns>"]
+		"uniques": ["Can transform to [Aswang] <by consuming this unit>"]
 	}
 ]
