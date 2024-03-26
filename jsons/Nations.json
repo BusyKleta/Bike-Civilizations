@@ -98,7 +98,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Nation Not Yet Playable, all units will get a chance to get a promotion that lets them transform into a type of aswang",
 		"uniques": [
-			"[All] units gain the [Bloodline: Aswang] promotion <with [50]% chance>",
+			"[[non-Civilian} {non-Great Person}] units gain the [Bloodline: Aswang] promotion",
 			"[10] free [Warrior] units appear <upon founding a city>"
 		],
 		"cities": [
