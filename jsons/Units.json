@@ -110,7 +110,7 @@
 	// Alamat Units
 	{
 		"name": "Aswang",
-		"unitType": "Sword",
+		"unitType": "Folklore",
 		"uniqueTo": "Alamat",
 		"movement": 2,
 		"strength": 20,
