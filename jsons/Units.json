@@ -115,6 +115,9 @@
 		"uniqueTo": "Alamat",
 		"movement": 2,
 		"strength": 20,
+		"cost": 40,
+		"attackSound": "nonmetalhit",
+		"uniques": ["Unbuildable"]
 	}
 	
 ]
