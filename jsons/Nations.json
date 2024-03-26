@@ -74,6 +74,26 @@
 			"Segunda", "Valenzuela", "Rivera", "Consuelo", "O-Sei", "Gertrude", "Nelly", "Suzanne", "Josephine"
 		]
 		//Notable illustrados, Rizal's Hometown, Rizal's Family Members, Rizal's partners
+	},
+	{
+		"name": "Seculares",
+		"leaderName": "The 3 Martyred Priests",
+		"adjective": ["Secular"],
+		"preferredVictoryType": "Diplomatic",
+
+		"outerColor": [20,20,70],
+		"innerColor": [255,255,255],
+		"uniqueName": "Nation Not Yet Playable",
+	},
+	{
+		"name": "Mythos"
+		"leaderName": "Ang Sinungaling",
+		"adjective": ["Mythological"],
+		"preferredVictoryType": "Domination",
+
+		"outerColor": [20,20,70],
+		"innerColor": [255,255,255],
+		"uniqueName": "Nation Not Yet Playable"
 	}
 ]
 
