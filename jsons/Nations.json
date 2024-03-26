@@ -62,7 +62,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "The Pen is Mightier Than The Sword",
 		"uniques": [
-			"[+1 Science] [in all cities] <every [3] turns>",
+			"[+1 Science] [in all cities] < for [3] turns> <every [6] turns>",
 			"Free [Illustrado] appears <in [Capital] cities> <upon discovering [Writing] technology>",
 			"Comment [Can construct [Illustrado] units which can speed up the research of one tech]",
 			"[All] units gain the [Pag-asa ng Bayan] promotion",
