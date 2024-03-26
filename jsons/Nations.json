@@ -98,11 +98,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Nation Not Yet Playable, all units will get a chance to get a promotion that lets them transform into a type of aswang",
 		"uniques": [
-			"[All] units gain the [Bloodline: Aswang] promotion <with [10]% chance>",
-			"[All] units gain the [Bloodline: Kapre] promotion <with [10]% chance>",
-			"[All] units gain the [Bloodline: Manananggal] promotion <with [10]% chance>",
-			"[All] units gain the [Bloodline: Diwata] promotion <with [10]% chance>",
-			"[All] units gain the [Bloodline: Nuno] promotion <with [10]% chance>",
+			"[All] units gain the [Bloodline: Aswang] promotion <with [100]% chance>",
 		],
 		"cities": [
 			"Bathala", "Bakunawa", "Adarna"
