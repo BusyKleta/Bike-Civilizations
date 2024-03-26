@@ -83,20 +83,27 @@
 
 		"outerColor": [20,20,70],
 		"innerColor": [255,255,255],
-		"uniqueName": "Comment[Nation not yet playabe, will gain a diplomacy buff for all cities with the same religion, will have unique fath units and structures]",
+		"uniqueName": "Nation not yet playabe, will gain a diplomacy buff for all cities with the same religion, will have unique fath units and structures",
 		"cities": [
 			"Gomez","Burgos","Zamora"
 		]
 	},
 	{
-		"name": "Mythos"
-		"leaderName": "Ang Sinungaling",
-		"adjective": ["Mythological"],
+		"name": "Alamat"
+		"leaderName": "Ang Taga-alamat",
+		"adjective": ["Alamat"],
 		"preferredVictoryType": "Domination",
 
 		"outerColor": [20,20,70],
 		"innerColor": [255,255,255],
-		"uniqueName": "Comment[Nation Not Yet Playable, all units will get a chance to get a promotion that lets them transform into a type of aswang]",
+		"uniqueName": "Nation Not Yet Playable, all units will get a chance to get a promotion that lets them transform into a type of aswang",
+		"uniques": [
+			"[All] units gain the [Bloodline: Aswang] promotion <with [10]% chance>",
+			"[All] units gain the [Bloodline: Kapre] promotion <with [10]% chance>",
+			"[All] units gain the [Bloodline: Manananggal] promotion <with [10]% chance>",
+			"[All] units gain the [Bloodline: Diwata] promotion <with [10]% chance>",
+			"[All] units gain the [Bloodline: Nuno] promotion <with [10]% chance>",
+		],
 		"cities": [
 			"Bathala", "Bakunawa", "Adarna"
 		]
