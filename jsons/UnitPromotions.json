@@ -30,10 +30,10 @@
 	{
 		"name": "Bloodline: Kapre",
 		"unitTypes": "Folklore",
+		"prerequisites": ["Bloodline: Aswang"],
 		"uniques": [
 			"Double movement in [Jungle]",
 			"[+20]% Strength <when fighting in [Jungle] tiles>"
 		],
-		"prerequisites": ["Bloodline: Aswang"],
 	}
 ]
