@@ -31,8 +31,8 @@
 		"name": "Bloodline: Kapre",
 		"unitTypes": "Folklore",
 		"uniques": [
-			"Double movement in [Jungle, Forest]",
-			"[+20]% Strength <when fighting in [Jungle, Forest] tiles>"
+			"Double movement in [Jungle]",
+			"[+20]% Strength <when fighting in [Jungle] tiles>"
 		],
 		"prerequisites": ["Bloodline: Aswang"],
 	}
