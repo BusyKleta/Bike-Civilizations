@@ -26,8 +26,6 @@
 		"name": "Bloodline: Aswang",
 		"unitTypes": "Folklore",
 		"uniques": ["Can move after attacking"],
-		"row": 0,
-        	"column": 0
 	},
 	{
 		"name": "Bloodline: Kapre",
@@ -37,7 +35,5 @@
 			"[+20]% Strength <when fighting in [Jungle, Forest] tiles>"
 		],
 		"prerequisites": ["Bloodline: Aswang"],
-		"row": 1,
-        	"column": 0
 	}
 ]
