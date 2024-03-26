@@ -11,5 +11,9 @@
 	{
 		"name": "Pag-asa ng Bayan",
 		"uniques": ["[+10]% Strength <after [25] turns>"]
+	},
+	{
+		"name": "Bloodline: Aswang"
+		"uniques": ["can transform to [Aswang]"]
 	}
 ]
