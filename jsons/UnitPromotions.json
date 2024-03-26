@@ -16,13 +16,10 @@
 		]
 	},
 	{
-		"name": "Bloodline: Aswang",
+		"name": "Bloodline",
 		"uniques": [
-			//"Free [Manananggal] appears <by consuming this unit> <hidden from users>",
-			//"Free [Kapre] appears <by consuming this unit> <hidden from users>",
-			"Free [Aswang] appears <by consuming this unit> <hidden from users>",
-			//"Free [Tikbalang] appears <by consuming this unit> <hidden from users>",
-			"Comment [Can Transform into an unique alamat unit, loses this promotion]"
+			"Free [Maligno] appears <by consuming this unit> <hidden from users>",
+			"Comment [Can Transform into the base alamat unit, loses this promotion]",
 		]
 	}
 ]
