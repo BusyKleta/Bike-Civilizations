@@ -106,5 +106,20 @@
 		],
 		"movement": 2,
 		"cost": 100
+	},
+
+	// Alamat Units
+	{
+		"name": "Aswang",
+		"unitType": "Sword",
+		"uniqueTo": "Alamat",
+		"movement": 2,
+		"strength": 20,
+		"uniques": [
+			"This Unit takes [20] damage <every [1] turns>",
+			"Heals [40] damage if it kills a unit",
+			"Can transform to [Kapre] <after [8] turns>"
+		]
 	}
+	
 ]
