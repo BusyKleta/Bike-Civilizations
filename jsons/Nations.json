@@ -99,8 +99,9 @@
 		"uniqueName": "Nation Not Yet Playable, all units will get a chance to get a promotion that lets them transform into a type of aswang",
 		"uniques": [
 			"[Sword] units gain the [Bloodline: Aswang] promotion",
-			//"[Archery] units gain the [Bloodline: Kapre]",
-			//"[Water] units gain the [Bloodline: Shokoy]",
+			//"Archery units gain the Bloodline: Kapre promotion",
+			//"Water units gain the Bloodline: Shokoy promotion",
+			//"Flying units gain the Bloodline: Manananggal promotion",
 		],
 		"cities": [
 			"Bathala", "Bakunawa", "Adarna"
