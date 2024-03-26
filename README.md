@@ -1,5 +1,9 @@
-# Unciv-mod-example
+# Bike's-Civilization
 
-An example mod for Unciv, that adds one new Civilization.
+An extension mod for Gods & Kings that introduces various Filipino based civilization with different uniques. Some may be more historically inspired while some may be for fun.
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Current Additions:
+- Katipunan: Early game unit spam playstyle
+- Illustrados: Early game quick unlock tech tree
+- Seculares: Faith based diplomacy buffs and holy units
+- Mythos: Units can transform into glass cannon units that lose hp every turn
