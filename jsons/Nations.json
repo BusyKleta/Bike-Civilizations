@@ -83,7 +83,7 @@
 
 		"outerColor": [20,20,70],
 		"innerColor": [255,255,255],
-		"uniqueName": "Nation Not Yet Playable",
+		"uniqueName": "Comment[Nation not yet playabe, will gain a diplomacy buff for all cities with the same religion, will have unique fath units and structures]",
 	},
 	{
 		"name": "Mythos"
@@ -93,7 +93,7 @@
 
 		"outerColor": [20,20,70],
 		"innerColor": [255,255,255],
-		"uniqueName": "Nation Not Yet Playable"
+		"uniqueName": "Comment[Nation Not Yet Playable, all units will get a chance to get a promotion that lets them transform into a type of aswang]"
 	}
 ]
 
