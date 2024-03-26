@@ -98,8 +98,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Nation Not Yet Playable, all units will get a chance to get a promotion that lets them transform into a type of aswang",
 		"uniques": [
-			"[non-[Aswang]] units gain the [Bloodline: Aswang] promotion <with [100]% chance>",
-			"[10] free [Warrior] units appear <upon founding a city>",
+			"[non-[Aswang]] units gain the [Bloodline] promotion",
 			//"Archery units gain the Bloodline: Kapre promotion",
 			//"Water units gain the Bloodline: Shokoy promotion",
 			//"Flying units gain the Bloodline: Manananggal promotion",
