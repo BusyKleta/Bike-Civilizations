@@ -25,8 +25,15 @@
 	{
 		"name": "Bloodline: Aswang",
 		"unitTypes": "Folklore",
-		"uniques": "[+1] Movement <if [Lungga ng Lagim] is constructed>"
+		"uniques": ["Can move after attacking"],
 		"row": 0,
+        	"column": 0
+	},
+	{
+		"name": "Bloodline: Kapre",
+		"unitTypes": "Folklore",
+		"uniques": ["Double movement in [Jungle, Forest, ]"],
+		"row": 1,
         	"column": 0
 	}
 ]
