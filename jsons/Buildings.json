@@ -22,5 +22,17 @@
 			"[+1 Culture] [in all cities] <after discovering [Gunpowder]>"
 		],
 		"requiredTech": "Writing"
+	},
+	{
+		"name": "Lungga ng Lagim",
+		"uniqueTo": "Alamat",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"uniques": [ 
+			"[-1] population [in this city]", 
+			"Destroyed when the city is captured", 
+			"[Aswang] units gain [+25]% Strength [in this city]"
+		],
+		
 	}
 ]
