@@ -30,10 +30,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Bronze Working",
 		"uniques": [ 
-			"[-1] population <in this city>", 
-			"Destroyed when the city is captured", 
-			//"[Aswang] units gain [+25]% Strength <in this city>"
-		],
-		
+			"Destroyed when the city is captured",
+		]
 	}
 ]
