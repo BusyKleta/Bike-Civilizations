@@ -24,6 +24,7 @@
 		"innerColor": [255,205,38],
 		"uniqueName": "Freedom Fighters",
 		"uniques":[
+			"Earn [10]% of killed [Military] unit's [Cost] as [Culture]",
 			"Comment [Free Katipunan Unit appears upon founding a city until the Renaissance Era]",
 			"Free [Katipon] appears <upon founding a city> <during the [Ancient era]> <hidden from users>",
 			"Free [Kawal] appears <upon founding a city> <during the [Classical era]> <hidden from users>",
