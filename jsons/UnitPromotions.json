@@ -24,5 +24,9 @@
 	},
 	{
 		"name": "Bloodline: Aswang",
+		"unitTypes": "Folklore",
+		"uniques": "[+1] Movement <if [Lungga ng Lagim] is constructed>"
+		"row": 0,
+        	"column": 0
 	}
 ]
