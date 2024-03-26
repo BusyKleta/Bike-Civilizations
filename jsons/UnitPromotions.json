@@ -17,6 +17,9 @@
 	},
 	{
 		"name": "Bloodline: Aswang"
-		"uniques": ["Can transform to [Aswang] <by consuming this unit>"]
+		"uniques": [
+			"Free [Aswang] unit appears <by consuming this unit> ,<hidden from users>",
+			"Comment[Can Transform into an [Aswang] unit, loses this promotion]"
+		]
 	}
 ]
