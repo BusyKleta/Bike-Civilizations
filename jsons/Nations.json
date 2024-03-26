@@ -92,7 +92,7 @@
 		"name": "Alamat"
 		"leaderName": "Ang Taga-alamat",
 		"adjective": ["Alamat"],
-		"startBias": ["Jungle","Forest"],
+		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
 
 		"outerColor": [20,20,70],
