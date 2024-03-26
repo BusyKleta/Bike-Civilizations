@@ -109,14 +109,25 @@
 	},
 	// Alamat Units
 	{
-		"name": "Aswang",
+		"name": "Maligno",
 		"unitType": "Folklore",
 		"uniqueTo": "Alamat",
-		"movement": 2,
-		"strength": 20,
+		"movement": 3,
+		"strength": 8,
 		"cost": 40,
 		"attackSound": "nonmetalhit",
-		"uniques": ["Unbuildable"]
+		"uniques": [
+			"Unbuildable",
+			"[+50]% Strength <during the [Classical era]>",
+			"[+100]% Strength <during the [Medieval era]>",
+			"[+150]% Strength <during the [Renaissance era]>",
+			"[+200]% Strength <during the [Industrial era]>",
+			"[+250]% Strength <during the [Modern era]>",
+			"[+300]% Strength <during the [Atomic era]>",
+			"[+350]% Strength <during the [Information era]>",
+			"[+400]% Strength <during the [Future era]>",
+			"Can transform to [Aswang] <for units with [Bloodline: Aswang]>"
+		]
 	}
 	
 ]
