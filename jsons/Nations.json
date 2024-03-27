@@ -84,9 +84,7 @@
 		"outerColor": [20,20,70],
 		"innerColor": [255,255,255],
 		"uniqueName": "Nation not yet playabe, will gain a diplomacy buff for all cities with the same religion, will have unique fath units and structures",
-		"cities": [
-			"Gomez","Burgos","Zamora"
-		]
+		"cities": ["Gomez","Burgos","Zamora"]
 	},
 	{
 		"name": "Alamat"
@@ -97,14 +95,12 @@
 
 		"outerColor": [20,20,70],
 		"innerColor": [255,255,255],
-		"uniqueName": "Nation Not Yet Playable, all units will get a chance to get a promotion that lets them transform into a type of aswang",
+		"uniqueName": "Nation Not Yet Playable",
 		"uniques": [
 			"[non-[Folklore]] units gain the [Bloodline] promotion",
 			"New [Military] units start with [15] Experience [in all cities]"
 		],
-		"cities": [
-			"Bathala", "Bakunawa", "Adarna"
-		]
+		"cities": ["Bathala", "Bakunawa", "Adarna"]
 	}
 ]
 
