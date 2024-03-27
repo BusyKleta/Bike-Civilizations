@@ -25,7 +25,8 @@
 	{
 		"name": "Bloodline: Aswang",
 		"unitTypes": "Folklore",
-		"uniques": ["Can move after attacking"]
+		"uniques": ["Can move after attacking"],
+		"row": 6
 	},
 	{
 		"name": "Bloodline: Kapre",
@@ -34,6 +35,7 @@
 		"uniques": [
 			"Double movement in [Jungle]",
 			"[+20]% Strength <when fighting in [Jungle] tiles>"
-		]
+		],
+		"row": 6
 	}
 ]
