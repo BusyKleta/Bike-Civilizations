@@ -150,7 +150,7 @@
 			"[+350]% Strength <during the [Information era]>",
 			"[+400]% Strength <during the [Future era]>",
 			
-			"Can transform to [Aswang] <for units with [Bloodline: Aswang]>",
+			"Can transform to [Shokoy] <for units with [Bloodline: Shokoy]>",
 			"Can transform to [Kapre] <for units with [Bloodline: Kapre]>",
 			
 			"This Unit takes [3] damage <every [2] turns> <in cities without a [Lungga ng Lagim]>",
@@ -158,8 +158,36 @@
 			"Heals [10] damage if it kills a unit",
 		]
 	},
-		{
+	{
 		"name": "Kapre",
+		"unitType": "Folklore",
+		"uniqueTo": "Alamat",
+		"movement": 4
+		"strength": 11,
+		"cost": 40,
+		"attackSound": "nonmetalhit",
+		"uniques": [
+			"Unbuildable",
+			"[+50]% Strength <during the [Classical era]>",
+			"[+100]% Strength <during the [Medieval era]>",
+			"[+150]% Strength <during the [Renaissance era]>",
+			"[+200]% Strength <during the [Industrial era]>",
+			"[+250]% Strength <during the [Modern era]>",
+			"[+300]% Strength <during the [Atomic era]>",
+			"[+350]% Strength <during the [Information era]>",
+			"[+400]% Strength <during the [Future era]>",
+			
+			"Can transform to [Aswang] <for units with [Bloodline: Aswang]>",
+			"Can transform to [Shokoy] <for units with [Bloodline: Shokoy]>",
+			
+			"This Unit takes [3] damage <every [3] turns> <in [non-[Friendly]] tiles> ",
+			"Heals [5] damage if it kills a unit",
+			"Double movement in [{Jungle} {Forest}]",
+			"[+20]% Strength <when fighting in [{Jungle} {Forest}] tiles>"
+		]
+	},
+	{
+		"name": "Shokoy",
 		"unitType": "Folklore",
 		"uniqueTo": "Alamat",
 		"movement": 4
@@ -180,10 +208,10 @@
 			"Can transform to [Aswang] <for units with [Bloodline: Aswang]>",
 			"Can transform to [Kapre] <for units with [Bloodline: Kapre]>",
 			
-			"This Unit takes [3] damage <every [3] turns> <in [non-[Friendly]] tiles> ",
-			"Heals [5] damage if it kills a unit",
-			"Double movement in [{Jungle} {Forest}]",
-			"[+20]% Strength <when fighting in [{Jungle} {Forest}] tiles>"
+			"This Unit takes [3] damage <every [5] turns> <in [non-[Friendly]] tiles> ",
+			"Heals [3] damage if it kills a unit",
+			"May travel on Water tiles without embarking",
 		]
-	}
+	},
+	
 ]
