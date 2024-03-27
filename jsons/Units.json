@@ -114,7 +114,7 @@
 		"unitType": "Folklore",
 		"uniqueTo": "Alamat",
 		"movement": 3,
-		"strength": 8,
+		"strength": 7,
 		"cost": 40,
 		"attackSound": "nonmetalhit",
 		"uniques": [
@@ -127,7 +127,55 @@
 			"[+300]% Strength <during the [Atomic era]>",
 			"[+350]% Strength <during the [Information era]>",
 			"[+400]% Strength <during the [Future era]>",
-			"Can transform to [Samurai] <for units with [Bloodline: Aswang]>"
+			"Can transform to [Aswang] <for units with [Bloodline: Aswang]>",
+			"Can transform to [Kapre] <for units with [Bloodline: Kapre]>"
+		]
+	},
+	{
+		"name": "Aswang",
+		"unitType": "Folklore",
+		"uniqueTo": "Alamat",
+		"movement": 4
+		"strength": 9,
+		"cost": 40,
+		"attackSound": "nonmetalhit",
+		"uniques": [
+			"Unbuildable",
+			"[+50]% Strength <during the [Classical era]>",
+			"[+100]% Strength <during the [Medieval era]>",
+			"[+150]% Strength <during the [Renaissance era]>",
+			"[+200]% Strength <during the [Industrial era]>",
+			"[+250]% Strength <during the [Modern era]>",
+			"[+300]% Strength <during the [Atomic era]>",
+			"[+350]% Strength <during the [Information era]>",
+			"[+400]% Strength <during the [Future era]>",
+			"Heals [10] damage if it kills a unit",
+			"This Unit takes [3] damage <every [2] turns> <in cities without a [Lungga ng Lagim]>",
+			"This Unit takes [3] damage <every [1] turns> ",
+			"Can transform to [Aswang] <for units with [Bloodline: Aswang]>",
+			"Can transform to [Kapre] <for units with [Bloodline: Kapre]>"
+		]
+	},
+		{
+		"name": "Kapre",
+		"unitType": "Folklore",
+		"uniqueTo": "Alamat",
+		"movement": 4
+		"strength": 11,
+		"cost": 40,
+		"attackSound": "nonmetalhit",
+		"uniques": [
+			"Unbuildable",
+			"[+50]% Strength <during the [Classical era]>",
+			"[+100]% Strength <during the [Medieval era]>",
+			"[+150]% Strength <during the [Renaissance era]>",
+			"[+200]% Strength <during the [Industrial era]>",
+			"[+250]% Strength <during the [Modern era]>",
+			"[+300]% Strength <during the [Atomic era]>",
+			"[+350]% Strength <during the [Information era]>",
+			"[+400]% Strength <during the [Future era]>",
+			"Can transform to [Aswang] <for units with [Bloodline: Aswang]>",
+			"Can transform to [Kapre] <for units with [Bloodline: Kapre]>"
 		]
 	}
 ]
