@@ -149,11 +149,13 @@
 			"[+300]% Strength <during the [Atomic era]>",
 			"[+350]% Strength <during the [Information era]>",
 			"[+400]% Strength <during the [Future era]>",
-			"Heals [10] damage if it kills a unit",
-			"This Unit takes [3] damage <every [2] turns> <in cities without a [Lungga ng Lagim]>",
-			"This Unit takes [3] damage <every [1] turns> ",
+			
 			"Can transform to [Aswang] <for units with [Bloodline: Aswang]>",
-			"Can transform to [Kapre] <for units with [Bloodline: Kapre]>"
+			"Can transform to [Kapre] <for units with [Bloodline: Kapre]>",
+			
+			"This Unit takes [3] damage <every [2] turns> <in cities without a [Lungga ng Lagim]>",
+			"This Unit takes [3] damage <every [1] turns> <in [non-[Friendly]] tiles> ",
+			"Heals [10] damage if it kills a unit",
 		]
 	},
 		{
@@ -174,8 +176,12 @@
 			"[+300]% Strength <during the [Atomic era]>",
 			"[+350]% Strength <during the [Information era]>",
 			"[+400]% Strength <during the [Future era]>",
+			
 			"Can transform to [Aswang] <for units with [Bloodline: Aswang]>",
-			"Can transform to [Kapre] <for units with [Bloodline: Kapre]>"
+			"Can transform to [Kapre] <for units with [Bloodline: Kapre]>",
+			
+			"This Unit takes [3] damage <every [3] turns> <in [non-[Friendly]] tiles> ",
+			"Heals [5] damage if it kills a unit",
 		]
 	}
 ]
