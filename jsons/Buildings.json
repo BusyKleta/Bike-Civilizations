@@ -29,8 +29,6 @@
 		"replaces": "Barracks",
 		"hurryCostModifier": 25,
 		"requiredTech": "Bronze Working",
-		"uniques": [ 
-			"Destroyed when the city is captured",
-		]
-	}
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
