@@ -24,13 +24,13 @@
 	},
 	{
 		"name": "Bloodline: Aswang",
-		"unitTypes": "Folklore",
+		"unitTypes": ["Folklore"],
 		"uniques": ["Can move after attacking"],
 		"row": 6
 	},
 	{
 		"name": "Bloodline: Kapre",
-		"unitTypes": "Folklore",
+		"unitTypes": ["Folklore"],
 		"prerequisites": ["Bloodline: Aswang"],
 		"uniques": [
 			"Double movement in [Jungle]",
