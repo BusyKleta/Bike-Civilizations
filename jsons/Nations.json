@@ -98,7 +98,7 @@
 		"uniqueName": "Nation Not Yet Playable",
 		"uniques": [
 			"[non-[Folklore]] units gain the [Bloodline] promotion",
-			"New [Military] units start with [15] Experience <in [in all cities] cities>"
+			"New [Military] units start with [15] Experience [in all cities]"
 		],
 		"cities": ["Bathala", "Bakunawa", "Adarna"]
 	}
