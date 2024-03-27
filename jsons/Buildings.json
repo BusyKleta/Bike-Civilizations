@@ -28,10 +28,12 @@
 		"uniqueTo": "Alamat",
 		"replaces": "Barracks",
 		"hurryCostModifier": 25,
+		"food": 2
 		"requiredTech": "Bronze Working",
 		"uniques": [
 			"Destroyed when the city is captured",
-			"[+15]% Strength <for [Aswang] units> <when attacking> <in this city>"
+			"[+15]% Strength <for [Aswang] units> <when attacking> <in this city>",
+			"[-1] population [in this city]"
 		]
 	},
 ]
