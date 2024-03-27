@@ -40,7 +40,7 @@
 		"name": "Bloodline: Shokoy",
 		"unitTypes": ["Folklore"],
 		"prerequisites": ["Bloodline: Aswang"],
-		"row" 7,
+		"row": 7,
 		"column": 1
 	}
 ]
