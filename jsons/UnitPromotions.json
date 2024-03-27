@@ -18,8 +18,7 @@
 	{
 		"name": "Bloodline",
 		"uniques": [
-			"Free [Maligno] appears <by consuming this unit> <hidden from users>",
-			"Comment [Can Transform into the base alamat unit, loses this promotion]",
+			"Can transform to [Maligno] <for units with [Bloodline: Aswang]>"
 		]
 	},
 	{
