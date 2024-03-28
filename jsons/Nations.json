@@ -94,10 +94,10 @@
 		"preferredVictoryType": "Domination",
 
 		"outerColor": [20,20,70],
-		"innerColor": [255,255,255],
+		"innerColor": [150,20,20],
 		"uniqueName": "Nation Not Yet Playable",
 		"uniques": [
-			"[non-[Folklore]] units gain the [Bloodline] promotion",
+			"[{non-[Folklore]} {Military}] units gain the [Bloodline] promotion",
 			"New [Military] units start with [15] Experience [in all cities]"
 		],
 		"cities": ["Bathala", "Bakunawa", "Adarna"]
