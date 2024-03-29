@@ -15,6 +15,7 @@
 			"[+1] Movement <after [12] turns>"
 		]
 	},
+	//The base Folklore Unit
 	{
 		"name": "Bloodline",
 		"uniques": [
@@ -34,24 +35,78 @@
 			"[-30] HP when healing <in [non-[in all cities]] cities> <in cities without a [Lungga ng Lagim]> <for [Folklore] units>"
 		]
 	},
+	//Man Eater Line
 	{
-		"name": "Bloodline: Aswang",
+		"name": "Bloodline: Tiyanak",
 		"unitTypes": ["Folklore"],
+		"prerequisites": ["Bloodline"],
 		"row": 6,
 		"column": 0
 	},
 	{
-		"name": "Bloodline: Duwende",
+		"name": "Bloodline: Aswang",
 		"unitTypes": ["Folklore"],
-		"prerequisites": ["Bloodline: Aswang"],
-		"row": 6
+		"prerequisites": ["Bloodline: Tiyanak"],
+		"row": 6,
 		"column": 1
 	},
 	{
-		"name": "Bloodline: Shokoy",
+		"name": "Bloodline: Tikbalang",
 		"unitTypes": ["Folklore"],
-		"prerequisites": ["Bloodline: Aswang"],
+		"prerequisites": ["Bloodline: Tiyanak"],
+		"row": 6,
+		"column": 1
+	},
+
+	//Forest Creatures Line
+	{
+		"name": "Bloodline: Duwende",
+		"unitTypes": ["Folklore"],
+		"prerequisites": ["Bloodline"],
+		"row": 7
+		"column": 0
+	},
+	{
+		"name": "Bloodline: Kapre",
+		"unitTypes": ["Folklore"],
+		"prerequisites": ["Bloodline: Nuno Sa Punso"],
+		"row": 7,
+		"column": 2
+	},
+	{
+		"name": "Bloodline: Tikbalang",
+		"unitTypes": ["Folklore"],
+		"prerequisites": ["Bloodline: Nuno Sa Punso"],
+		"row": 8,
+		"column": 2
+	},
+	{
+		"name": "Bloodline: Nuno Sa Punso",
+		"unitTypes": ["Folklore"],
+		"prerequisites": ["Bloodline: Duwende"],
 		"row": 7,
 		"column": 1
+	},
+	//Water Creatures Line
+	{
+		"name": "Bloodline: Shokoy",
+		"unitTypes": ["Folklore"],
+		"prerequisites": ["Bloodline"],
+		"row": 9,
+		"column": 0
+	},
+	{
+		"name": "Bloodline: Sirena",
+		"unitTypes": ["Folklore"],
+		"prerequisites": ["Bloodline: Shokoy"],
+		"row":9,
+		"column": 1
+	},
+	{
+		"name": "Bloodline: Dogong",
+		"unitTypes": ["Folklore"],
+		"prerequisites": ["Bloodline: Sirena"],
+		"row": 9,
+		"column": 2
 	}
 ]
