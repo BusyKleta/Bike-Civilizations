@@ -148,13 +148,9 @@
 		"attackSound": "nonmetalhit",
 		"uniques": [
 			"Unbuildable",
-			
 			"Can transform to [Shokoy] <for units with [Bloodline: Shokoy]>",
 			"Can transform to [Kapre] <for units with [Bloodline: Kapre]>",
 			
-			"This Unit takes [3] damage <every [2] turns> <in cities without a [Lungga ng Lagim]>",
-			"This Unit takes [3] damage <every [1] turns> <in [non-[Friendly]] tiles> ",
-			"Heals [10] damage if it kills a unit",
 		]
 	},
 	{
