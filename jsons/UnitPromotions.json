@@ -20,7 +20,16 @@
 		"uniques": [
 			"Can transform to [Shady Warrior]",
 			"Can transform to [Shady Archer]",
-			"Can transform to [Maligno]"
+			"Can transform to [Maligno]",
+
+			"[+50]% Strength <during the [Classical era]> <for [Folklore] units> <hidden from users>",
+			"[+100]% Strength <during the [Medieval era]> <for [Folklore] units> <hidden from users>",
+			"[+150]% Strength <during the [Renaissance era]> <for [Folklore] units> <hidden from users>",
+			"[+200]% Strength <during the [Industrial era]> <for [Folklore] units> <hidden from users>",
+			"[+250]% Strength <during the [Modern era]> <for [Folklore] units> <hidden from users>",
+			"[+300]% Strength <during the [Atomic era]> <for [Folklore] units> <hidden from users>",
+			"[+350]% Strength <during the [Information era]> <for [Folklore] units> <hidden from users>",
+			"[+400]% Strength <during the [Future era]> <for [Folklore] units> <hidden from users>"
 		]
 	},
 	{
