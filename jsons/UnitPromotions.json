@@ -41,7 +41,7 @@
 		"column": 0
 	},
 	{
-		"name": "Bloodline: Kapre",
+		"name": "Bloodline: Duwende",
 		"unitTypes": ["Folklore"],
 		"prerequisites": ["Bloodline: Aswang"],
 		"row": 6
