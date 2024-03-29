@@ -29,7 +29,8 @@
 			"[+250]% Strength <during the [Modern era]> <for [Folklore] units> <hidden from users>",
 			"[+300]% Strength <during the [Atomic era]> <for [Folklore] units> <hidden from users>",
 			"[+350]% Strength <during the [Information era]> <for [Folklore] units> <hidden from users>",
-			"[+400]% Strength <during the [Future era]> <for [Folklore] units> <hidden from users>"
+			"[+400]% Strength <during the [Future era]> <for [Folklore] units> <hidden from users>",
+			"Heals [10] damage if it kills a unit <for [Folklore] units>",
 		]
 	},
 	{
