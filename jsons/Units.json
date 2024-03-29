@@ -125,6 +125,32 @@
 			"Can transform to [Shokoy] <for units with [Bloodline: Shokoy]>",
 		]
 	},
+	{
+		"name": "Shady Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Alamat",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit",
+		"uniques": ["Unbuildable"]
+	},
+	{
+		"name": "Shady Archer",
+		"unitType": "Archery",
+		"uniqueTo": "Alamat",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+		"uniques": ["Unbuildable"]
+	},
 	//Man Eater Units
 	{
 		"name": "Aswang",
