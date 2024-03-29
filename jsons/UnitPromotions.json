@@ -19,9 +19,9 @@
 	{
 		"name": "Bloodline",
 		"uniques": [
-			"Can transform to [Shady Warrior]",
-			"Can transform to [Shady Archer]",
-			"Can transform to [Maligno]",
+			"Can transform to [Shady Warrior] <for [Folklore] units>",
+			"Can transform to [Shady Archer] <for [Folklore] units>",
+			"Can transform to [Maligno] <for [non-[Folklore]] units>",
 
 			"[+50]% Strength <during the [Classical era]> <for [Folklore] units> <hidden from users>",
 			"[+100]% Strength <during the [Medieval era]> <for [Folklore] units> <hidden from users>",
