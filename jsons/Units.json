@@ -127,10 +127,17 @@
 			"[+300]% Strength <during the [Atomic era]>",
 			"[+350]% Strength <during the [Information era]>",
 			"[+400]% Strength <during the [Future era]>",
+			
 			"Can transform to [Aswang] <for units with [Bloodline: Aswang]>",
-			"Can transform to [Kapre] <for units with [Bloodline: Kapre]>"
+			"Can transform to [Kapre] <for units with [Bloodline: Kapre]>",
+			
+			"Heals [10] damage if it kills a unit",
+			"[-30] HP when healing <in [non-[in all cities]] cities>"
 		]
 	},
+	{
+
+	}
 	{
 		"name": "Aswang",
 		"unitType": "Folklore",
@@ -141,14 +148,6 @@
 		"attackSound": "nonmetalhit",
 		"uniques": [
 			"Unbuildable",
-			"[+50]% Strength <during the [Classical era]>",
-			"[+100]% Strength <during the [Medieval era]>",
-			"[+150]% Strength <during the [Renaissance era]>",
-			"[+200]% Strength <during the [Industrial era]>",
-			"[+250]% Strength <during the [Modern era]>",
-			"[+300]% Strength <during the [Atomic era]>",
-			"[+350]% Strength <during the [Information era]>",
-			"[+400]% Strength <during the [Future era]>",
 			
 			"Can transform to [Shokoy] <for units with [Bloodline: Shokoy]>",
 			"Can transform to [Kapre] <for units with [Bloodline: Kapre]>",
@@ -181,7 +180,7 @@
 			"Can transform to [Shokoy] <for units with [Bloodline: Shokoy]>",
 			
 			"This Unit takes [3] damage <every [3] turns> <in [non-[Friendly]] tiles> ",
-			"Heals [5] damage if it kills a unit",
+			"Heals [10] damage if it kills a unit",
 			"Double movement in [{Jungle} {Forest}]",
 			"[+20]% Strength <when fighting in [{Jungle} {Forest}] tiles>"
 		]
