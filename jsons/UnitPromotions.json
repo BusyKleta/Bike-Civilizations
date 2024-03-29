@@ -18,13 +18,14 @@
 	{
 		"name": "Bloodline",
 		"uniques": [
+			"Can transform to [Shady Warrior]",
+			"Can transform to [Shady Archer]",
 			"Can transform to [Maligno]"
 		]
 	},
 	{
 		"name": "Bloodline: Aswang",
 		"unitTypes": ["Folklore"],
-		"uniques": ["Can move after attacking"],
 		"row": 6,
 		"column": 0
 	},
