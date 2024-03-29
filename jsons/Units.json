@@ -125,6 +125,7 @@
 			"Can transform to [Shokoy] <for units with [Bloodline: Shokoy]>",
 		]
 	},
+	//Man Eater Units
 	{
 		"name": "Aswang",
 		"unitType": "Folklore",
@@ -138,9 +139,13 @@
 			
 			"Can transform to [Shokoy] <for units with [Bloodline: Shokoy]>",
 			"Can transform to [Kapre] <for units with [Bloodline: Duwende]>",
+
+			"Heals [15] damage if it kills a unit",
+			"[-30] HP when healing <in [non-[in all cities]] cities> <in cities without a [Lungga ng Lagim]>"
 			
 		]
 	},
+	//Forest Creatures
 	{
 		"name": "Duwende",
 		"unitType": "Folklore",
@@ -156,10 +161,13 @@
 			"Can transform to [Aswang] <for units with [Bloodline: Aswang]>",
 			"Can transform to [Shokoy] <for units with [Bloodline: Shokoy]>",
 			
-			"Double movement in [{Jungle} {Forest}]",
-			"[+20]% Strength <when fighting in [{Jungle} {Forest}] tiles>"
+			"Double movement in [Jungle]",
+			"Double movement in [Forest]",
+			"[+20]% Strength <when fighting in [Jungle] tiles>",
+			"[+20]% Strength <when fighting in [Forest] tiles>"
 		]
 	},
+	//Water Creatures
 	{
 		"name": "Shokoy",
 		"unitType": "Folklore",
